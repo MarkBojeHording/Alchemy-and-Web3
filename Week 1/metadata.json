@@ -1,0 +1,24 @@
+{
+  "description": "First NFT Project deployed as an ERC271 Smart Contract on Rinkeby.",
+  "external_url": "https://alchemy.com",
+  "image": "https://ipfs.filebase.io/ipfs/QmaPhMby52GGv87atP2qu9PC4B6fNe7rAWaaAALFED1akX",
+  "name": "ERC271 Learn",
+  "attributes": [
+    {
+      "attributes": [
+        {
+          "trait_type": "Coolness",
+          "value": "A lot"
+        },
+        {
+          "trait_type": "Website",
+          "value": "Akchemy.com"
+        },
+        {
+          "trait_type": "Token standard",
+          "value": "ERC271"
+        }
+      ]
+    }
+  ]
+}
